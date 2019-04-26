@@ -85,7 +85,3 @@ audioLoader.load( 'audio/1.mp3', function( buffer ) {
 	sound.play();
 	});
 ```
-
-# DAT505-GitHub
-name=Yaochang
-NUA Student ID=B161006101
