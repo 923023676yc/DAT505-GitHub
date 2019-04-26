@@ -1,3 +1,3 @@
 # DAT505-GitHub
 name=Yaochang
-B161006101
+NUA Student ID=B161006101
